@@ -1,0 +1,22 @@
+html{
+    background-color: #e8e8e8;
+}
+
+.name  {
+    font-family: "Microsoft YaHei";
+    margin-bottom: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    border-style:dotted none;
+    border-color: #1da1f2;
+    background-color: #9acfea;
+    color: #ffffff;
+
+}
+
+.block1 {
+    margin: 1px;
+    padding-top: 0;
+    background-color: lightblue;
+}
